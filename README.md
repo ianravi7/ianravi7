@@ -1,36 +1,38 @@
 
-# 👋 Hey, I'm Ian!
 
-💻 ADS student | Aspiring IT professional  
-🔐 Exploring Cybersecurity and IT Infrastructure  
-🌱 Learning, building projects, and growing every day.
+# 👋 Oi, eu sou o Ian!
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Studying Systems Analysis and Development (ADS).
-- 🔎 Interested in Cybersecurity, IT Infrastructure, and Software Development.
-- 🛠️ Building practical projects as I learn.
-- 📚 Focused on continuous learning and hands-on experience.
-
-## 🚀 Current Learning Journey
-
-- Git and GitHub
-- Programming fundamentals
-- Computer networks
-- Operating systems
-- Information security
-
-## 📂 Projects
-
-*Projects will be added here as I build and improve them.*
-
-## 🎯 My Goal
-
-To develop practical IT skills, contribute to real projects,
-and grow into a professional in the technology field.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🔐 Explorando Cibersegurança e Infraestrutura de TI  
+🌱 Aprendendo, construindo projetos e evoluindo a cada dia.
 
 ---
 
-📌 *Every expert was once a beginner.*
+## 🧑‍💻 Sobre Mim
+
+-  Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+-  Interessado em Cibersegurança, Infraestrutura de TI e Desenvolvimento de Software.
+-  Construindo projetos práticos enquanto aprendo.
+-  Sempre buscando novos conhecimentos e experiências práticas.
+
+## 🚀 Jornada de Aprendizagem
+
+-  Git e GitHub
+-  Fundamentos de programação
+-  Redes de computadores
+-  Sistemas operacionais
+-  Fundamentos de segurança da informação
+
+## 📂 Projetos
+
+🚧 Meu portfólio está em construção!
+
+Aqui compartilharei projetos práticos, experimentos e aprendizados da minha jornada em tecnologia.
+
+## 🎯 Meu Objetivo
+
+Desenvolver habilidades técnicas, contribuir para projetos reais e conquistar minha primeira oportunidade profissional na área de tecnologia.
+
+---
+
+📌 *Todo especialista já foi iniciante.*
