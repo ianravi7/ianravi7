@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**ianravi7/ianravi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Ian!
 
-Here are some ideas to get you started:
+💻 ADS student | Aspiring IT professional  
+🔐 Exploring Cybersecurity and IT Infrastructure  
+🌱 Learning, building projects, and growing every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Studying Systems Analysis and Development (ADS).
+- 🔎 Interested in Cybersecurity, IT Infrastructure, and Software Development.
+- 🛠️ Building practical projects as I learn.
+- 📚 Focused on continuous learning and hands-on experience.
+
+## 🚀 Current Learning Journey
+
+- Git and GitHub
+- Programming fundamentals
+- Computer networks
+- Operating systems
+- Information security
+
+## 📂 Projects
+
+*Projects will be added here as I build and improve them.*
+
+## 🎯 My Goal
+
+To develop practical IT skills, contribute to real projects,
+and grow into a professional in the technology field.
+
+---
+
+📌 *Every expert was once a beginner.*
